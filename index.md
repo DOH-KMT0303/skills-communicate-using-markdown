@@ -13,3 +13,12 @@ Example 2:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Okay, now we're going to make a task list, which has checkboxes! 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+Let's try another one since these are fun. 
+- [x] Set up time to go over GitHub with Sarah
+- [ ] Review code for Cell Phone carrier request
+- [ ] Send report to requestor 
